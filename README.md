@@ -10,14 +10,12 @@
 
 I am Prashant Ujjawal , a passionate DevOps Engineer with hands-on experience in building, automating, and managing cloud-native infrastructure. I thrive in environments that encourage automation, collaboration, and continuous improvement.
 
-- ☁️ Building and managing cloud infrastructure using **Microsoft Azure and AWS**
-- ⚙️ Provisioning infrastructure using **Terraform**
-- 🔁 Creating CI/CD pipelines using **GitHub Actions and Azure DevOps**
-- 🐳 Containerizing and deploying applications using **Docker and Kubernetes**
-- 🐧 Working with **Linux administration and Bash scripting**
-- 🌐 Deploying web applications using **Nginx and cloud virtual machines**
-- 🛠️ Learning DevOps best practices through practical projects and assignments
-- 🚀 Currently completing a hands-on **DevOps Micro-Internship**
+- ☁️ Working on scalable infrastructure using Azure Cloud and Terraform
+- 🔁 Building secure and efficient CI/CD pipelines using GitHub Actions and Azure DevOps
+- 🐳 Deploying microservices with Docker and Kubernetes
+- 🐧 Automating tasks on Linux using Bash scripting
+- 📊 Monitoring infrastructure and apps for performance and reliability
+- 🛠️ A firm believer in "Infrastructure as Code" and DevOps best practice
 
 
 ---
